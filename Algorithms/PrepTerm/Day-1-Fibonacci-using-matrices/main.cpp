@@ -44,7 +44,7 @@ long long nthFibonacciNumber(long long n, long long M) {
 
 void solve() {
     long long n, M; cin >> n >> M;
-    if(n > 2) 
+    if(n > 1) 
         cout << nthFibonacciNumber(n - 1, M) << '\n';
     else
         cout << n << "\n";
