@@ -1,4 +1,26 @@
-Test Case: Failed	Expected: 6, Found: 4
-Test Case: Failed	Expected: 2, Found: 1
-Test Case: Passed	Expected: 11, Found: 11
-Test Case: Failed	Expected: 31, Found: 30
+Compiling main.cpp
+Compilation completed in 2 seconds.
+Executing main.cpp
+Test Case: Passed	Expected: 1585728, Found: 1585728
+Test Case: Passed	Expected: 222042, Found: 222042
+Test Case: Passed	Expected: 4045966, Found: 4045966
+Test Case: Passed	Expected: 31439598, Found: 31439598
+Test Case: Passed	Expected: 17501376, Found: 17501376
+Test Case: Passed	Expected: 537967, Found: 537967
+Test Case: Passed	Expected: 17197016, Found: 17197016
+Test Case: Passed	Expected: 25709792, Found: 25709792
+Test Case: Passed	Expected: 1448046, Found: 1448046
+Test Case: Passed	Expected: 161076, Found: 161076
+Test Case: Passed	Expected: 11953015, Found: 11953015
+Test Case: Passed	Expected: 7667103, Found: 7667103
+Test Case: Passed	Expected: 421925, Found: 421925
+Test Case: Passed	Expected: 750812, Found: 750812
+Test Case: Passed	Expected: 7313824, Found: 7313824
+Test Case: Passed	Expected: 30956464, Found: 30956464
+Test Case: Passed	Expected: 7253112, Found: 7253112
+Test Case: Passed	Expected: 506001, Found: 506001
+Test Case: Passed	Expected: 3161361, Found: 3161361
+Test Case: Passed	Expected: 1413547, Found: 1413547
+Test Case: Passed	Expected: 8067608, Found: 8067608
+Execution completed in 4 seconds.
+Program Completed
